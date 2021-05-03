@@ -1,0 +1,12 @@
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.csprojAssemblyReference.cache
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.AssemblyInfoInputs.cache
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.AssemblyInfo.cs
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/while-loops/while-loops/bin/Debug/netcoreapp3.1/while-loops.deps.json
+/Users/Eli/Projects/while-loops/while-loops/bin/Debug/netcoreapp3.1/while-loops.runtimeconfig.json
+/Users/Eli/Projects/while-loops/while-loops/bin/Debug/netcoreapp3.1/while-loops.runtimeconfig.dev.json
+/Users/Eli/Projects/while-loops/while-loops/bin/Debug/netcoreapp3.1/while-loops.dll
+/Users/Eli/Projects/while-loops/while-loops/bin/Debug/netcoreapp3.1/while-loops.pdb
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.dll
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.pdb
+/Users/Eli/Projects/while-loops/while-loops/obj/Debug/netcoreapp3.1/while-loops.genruntimeconfig.cache
